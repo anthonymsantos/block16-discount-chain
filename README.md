@@ -1,2 +1,4 @@
 # block16-discount-chain
-About Fullstack Academy Unit 2 Block 16 Workshop: Discount Chain
+About Fullstack Academy<br>
+Unit 2 Block 16: Functions<br>
+Workshop: Discount Chain
